@@ -11,7 +11,7 @@ collections:
 description: 'Your description
 
 '
-baseurl: 'https://richpar3.github.io/Palabra_Miel_Orlando/'
+baseurl: https://richpar3.github.io/Palabra_Miel_Orlando/
 url: https://github.com/richpar3/Palabra_Miel_Orlando.git
 markdown: kramdown
 facebook:
