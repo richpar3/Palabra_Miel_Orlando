@@ -8,10 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'Your description
-
-'
-baseurl: /Palabra_Miel_Orlando
+description: 'Your description'
+baseurl: ""
 url: https://richpar3.github.io/Palabra_Miel_Orlando/
 markdown: kramdown
 facebook:
