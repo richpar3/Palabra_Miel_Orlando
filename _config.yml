@@ -12,7 +12,7 @@ description: 'Your description
 
 '
 baseurl: 
-url: https://richpar3.github.io/Palabra_Miel_Orlando/
+url: https://richpar3.github.io/
 markdown: kramdown
 facebook:
   app_id: 
