@@ -10,7 +10,6 @@ collections:
     output: true
 description: Iglesia de Jesucristo Palabra Miel
 
-'
 baseurl: 
 url: https://richpar3.github.io/
 markdown: kramdown
